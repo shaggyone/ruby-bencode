@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
      "README.md",
      "Rakefile",
      "VERSION",
+     "bencode.gemspec",
      "lib/bencode.rb",
      "lib/bencode/core_ext/array.rb",
      "lib/bencode/core_ext/hash.rb",
